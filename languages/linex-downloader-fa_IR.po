@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Linex Downloader 1.0.0\n"
+"POT-Creation-Date: 2015-05-13 12:16+0330\n"
+"PO-Revision-Date: 2015-05-13 12:16+0330\n"
+"Last-Translator: Alireza Tajary <tajary@gmail.com>\n"
+"Language-Team: Linex.ir <wp@linex.ir>\n"
+"Language: Farsi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/"
+"wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader\n"
+
+#: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader/linex_downloader.php:47
+#: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader/linex_downloader.php:165
+#: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader/linex_downloader.php:211
+msgid "Linex Downloader"
+msgstr "دانلودر فایل لینِکس"
+
+#: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader/linex_downloader.php:49
+msgid "Add Download"
+msgstr "دانلود فایل جدید"
+
+#: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader/linex_downloader.php:78
+msgid "list of downloads"
+msgstr "لیست فایل های دانلود شده"
+
+#: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader/linex_downloader.php:129
+msgid "Your File  is Uploaded."
+msgstr "فایل شما آپلود شده است."
+
+#: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader/linex_downloader.php:135
+msgid "Download new file"
+msgstr "دانلود فایل جدید"
+
+#: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader/linex_downloader.php:136
+msgid "Be patient, file is downloading..."
+msgstr "لطفا صبور باشید، فایل در حال دانلود است..."
+
+#: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader/linex_downloader.php:142
+#: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader/includes/class-my-table.php:31
+msgid "URL"
+msgstr "آدرس (URL)"
+
+#: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader/linex_downloader.php:145
+msgid "Filename"
+msgstr "نام فایل"
+
+#: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader/linex_downloader.php:148
+msgid "Title"
+msgstr "عنوان"
+
+#: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader/linex_downloader.php:151
+msgid "Download"
+msgstr "دانلود فایل جدید"
+
+#: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader/linex_downloader.php:164
+#: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader/linex_downloader.php:212
+msgid "Downloads files from web and puts them in the uploads folder"
+msgstr "فایل ها را از وب دانلود می کند و در پوشه آپلود ها قرار می دهد."
+
+#: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader/linex_downloader.php:166
+#: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader/linex_downloader.php:213
+msgid "Alireza Tajary"
+msgstr "علیرضا تجری"
+
+#: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader/includes/class-my-table.php:25
+msgid "id"
+msgstr "id"
+
+#: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader/includes/class-my-table.php:26
+msgid "title"
+msgstr "عنوان"
+
+#: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader/includes/class-my-table.php:27
+msgid "file name"
+msgstr "نام فایل"
+
+#: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader/includes/class-my-table.php:28
+msgid "file size"
+msgstr "اندازه فایل"
+
+#: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader/includes/class-my-table.php:29
+msgid "start time"
+msgstr "شروع"
+
+#: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader/includes/class-my-table.php:30
+msgid "finish time"
+msgstr "اتمام"
+
+#: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader/includes/class-my-table.php:33
+msgid "manage"
+msgstr "مدیریت"
+
+#: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader/includes/class-my-table.php:120
+msgid "Delete"
+msgstr "حذف"
+
+#: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader/includes/class-my-table.php:149
+msgid "show"
+msgstr "نمایش"
+
+#: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader/includes/class-my-table.php:167
+msgid "B"
+msgstr "بایت"
+
+#: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader/includes/class-my-table.php:168
+msgid "KB"
+msgstr "کیلو بایت"
+
+#: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader/includes/class-my-table.php:169
+msgid "MB"
+msgstr "مگا بایت"
+
+#: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader/includes/class-my-table.php:170
+msgid "GB"
+msgstr "گیگا بایت"
+
+#: /home/ali/apps/lampstack-5.4.29-0/apache2/htdocs/wp/wordpress-4.2.2-fa_IR/wp-content/plugins/linex_downloader/includes/class-my-table.php:171
+msgid "TB"
+msgstr "ترا بایت"
+
+#~ msgid "Your File is Uploaded."
+#~ msgstr "فایل شما آپلود شده است."
+
+#~ msgid "Excerpt View"
+#~ msgstr "Excerpt View"
