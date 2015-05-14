@@ -1,4 +1,5 @@
 <?php
+defined("ABSPATH")||die("invalid access");
 
 	class LinexMyListTable extends Linex_WP_List_Table{
 		
